@@ -1,0 +1,9 @@
+raspberry pi
+--python gibi dillerle uyumludur bu sayede kolay bir şekilde programlanabilir
+-- entegre olarak wifi bluetooth gibi kartlara sahiptir
+arduino
+--düşük seviyeli bir dile sahiptir bu sayede gerçek zamanlı uygulamalar daha rahat şekilde yapılır.
+--entegre olmayan parçalar için kolay bir şekilde entegrasyon sağlanabilir
+nvdia jetson
+--yüksek performanslı gpu ve cpu ya sahiptir bu sayede daha kolay bir şekilde görüntü işleme ve yapay zeka
+teknolojilerinde iş görür.

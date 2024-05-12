@@ -1,0 +1,8 @@
+Otonom araçlarda kullanılan sesörleri Lidar, Radar, Kameralar, Mesafe sensörleri, GPS olarak
+sıralayabiliriz.
+Lidar çevresel engelleri ve nesneleri algılamak için ve bu nesnelerin konumunu belirlemede 
+kullanılır.
+Radarlar ise yine Lidar gibi çevredeki nesneleri algılamada kullanılır fakat bunların konumları hareket durumları da tespit edilir.
+Kameralar ise aldığı veriyi yazılım kısmına aktarıp burada görüntü işleme ve yapay zeka kullanılarak aracın hareketlerinin yönetilmesinde önemli rol oynar.
+Mesafe sensörlerinden elde edilen verilerle de aracın hızı çevresindeki nesnelere göre durumu kontrol edilir.
+GPS de aracın gerçek dünyadaki konumunu elde etmemize yardımcı olur ve navigasyon sistemiyle uyumlu olarak çalışmayı sağlar.

@@ -1,0 +1,4 @@
+ROS robotik yazılım geliştirme ve çalıştırma platformudur. robotların temel işlevlerini gerçekleştirmek için
+kütüphaneler ve araçlar sağlar
+açık kaynaklı bir platformdur. Bunun yanında modüler bir yapıya sahiptir.
+Ve genel olarak robotik uygulamaları test etmek ve çalıştırmak için kullanıılır.

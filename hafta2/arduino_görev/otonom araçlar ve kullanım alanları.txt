@@ -1,0 +1,5 @@
+Günümüzde binek otonom araçlar tesla araçları ve Google'ın Wayma projesi Aurora İnnovation
+Apolong, Pony.ai ve otonom iş makineleri ve kamyonlar olarak sıralanabilir.
+Ve bunların kullanım yerlerine baktığımızda Tesla modellerini, Wayma'yı ve diğer binek
+araçları bireysel ulaşımda kullanırken diğer otonom iş makinelerini ve kamyonları da 
+iş hayatında kullanmaktayız.

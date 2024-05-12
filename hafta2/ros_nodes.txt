@@ -1,0 +1,6 @@
+ROS sistemlerinde düğümler hesaplamaları ve bu hesaplamaları grafiğe dönüştürme işlemini yaparlar. Bu düğümlerin her biri ayrı bir fonksiyonu veya robotun ayrı bir işlevini yönetir. Örneğin 
+bir düğüm motorları kontrol ederken bir düğüm konumu ve bir başka düğüm de mesafe kontrol sensörünü yönetir. Ve bu ayrışma sayesiinde sistemde modülerlik sağlanır ve bir hata oluştuğunda hatanın olduğu düğümde hata izole edilerek orada çözümü sağlanır ve hatanın çözümü daha kolay olur. Düğüm bulunan sistemler bu yüzden ve kod karmaşıklığının azalmasından dolayı monolitik sistemlere göre çok daha avantajlıdır.
+
+Çalışan tüm düğümlerin kendilerini diğer düğümlere tanıttığı benzersiz bir adı vardır. Düğümlerin dosya sisteminde başka bir düğüme başvurmasını kolaylaştıran bir düğüm türü vardır. 	Bu düğüm türü düğüm paketinin adını ve düğümün yürütülebilir dosyasının adını içeren paket kaynak kodlarıdır. Bu düğümü çözmek için ROS tüm yürütülebilir dosyaları arar ve ilk bulduğunu seçer bu nedenle dikkatli olunmalıdır ve aynı isimde yürütülebilir dosya üretilmemelidir.
+
+rosnode o anda çalışan düğümlerin listelenmesi ve düğümler hakkındaki bilgileri görüntülemeye yarayan bir komut satırı aracıdır.

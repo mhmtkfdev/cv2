@@ -1,0 +1,13 @@
+yapay zeka 
+-- otonom araçlar yapay zeka alanını çevrelerini tanımak ve buna bağlı olarak kendi başına karar verirken 
+kullanır
+görüntü işleme 
+-- otonom araçlarda bulunan kameralar yardımıyla etrafını yol işaretçilerinin ve diğer araçları tanırken 
+görüntü işleme alanından yararlanır
+simülasyon
+-- otonom araçların daha az maaliyetli şekilde test edilmesi için gerekli ortamı simülasyon programları sunar
+
+
+görüntü işleme alnında python ve pythonun bir kütüphanesi olan opencv kullanılır
+
+yapay zeka alanında yine python ve tensorflow kullanılır.
